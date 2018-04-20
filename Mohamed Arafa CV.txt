@@ -1,5 +1,5 @@
 Mohamed Arafa Ebeed Aly
-
+aaaaaaaaaaaaaaaaaaa
 PERSONAL DATA
 Date of Birth:		18/05/1993
 Nationality: 		Egypt
@@ -20,16 +20,16 @@ Enhance my technical and personal skills to build a strong and highly qualified 
 
 
 Technical Skills
-• C# programming - Very Good. 
-• C++ Programming - Good. 
-• HTML, HTML5 - Very Good.
-• Css , Css3 - Very Good.
-• ASP.net - Good.
-• SQL Database – vary Good.
-• Image Processing - Good.
-• Graphic Design using Photoshop - Good.
-• Swift - Very Good.
-• IOS - Good
+â€¢ C# programming - Very Good. 
+â€¢ C++ Programming - Good. 
+â€¢ HTML, HTML5 - Very Good.
+â€¢ Css , Css3 - Very Good.
+â€¢ ASP.net - Good.
+â€¢ SQL Database â€“ vary Good.
+â€¢ Image Processing - Good.
+â€¢ Graphic Design using Photoshop - Good.
+â€¢ Swift - Very Good.
+â€¢ IOS - Good
 
 PROFESSIONAL EXPERIENCE
 
@@ -50,7 +50,7 @@ Included Courses
 
 Communication  SKILLS
 
--I’m self-reliant worker, capable of a team as necessary. 
+-Iâ€™m self-reliant worker, capable of a team as necessary. 
 -Ability to work under stress.
 -Able to learn new tasks quickly
 -Ability to work independently as an effective team member.
