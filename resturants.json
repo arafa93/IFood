@@ -3,7 +3,7 @@
 
 		"id": 1,
 		"name": "Paradise",
-		"photograph": "https://martjackamstorage.azureedge.net/am-resources/f9a91e18-4e9d-4a6f-bd6a-2769c2300826/Images/ProductImages/Source/MunchBox_Optim.png",
+		"photograph": "https://s3.amazonaws.com/elmenusV3/Photos/Normal/iipzzsk06g55qaor.jpg,
 		"address": "171 E Broadway, New York, NY 10002"
 	}
 }
