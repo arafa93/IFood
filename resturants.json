@@ -1,9 +1,9 @@
 {
-	"restaurants": [{
+	"resturants": {
 
 		"id": 1,
 		"name": "Paradise",
 		"photograph": "https://plus.google.com/photos/115060485915556009260/album/6547010137903007857/6547010140826556178?authkey=CKv0i-nukd_NigE",
 		"address": "171 E Broadway, New York, NY 10002"
-	}]
+	}
 }
