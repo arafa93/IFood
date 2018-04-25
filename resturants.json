@@ -1,19 +1,42 @@
 {
 	"resturants": [{
-
-		"id": 1,
-		"name": "Paradise",
-		"photograph": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
-		"address": "171 E Broadway, New York, NY 10002"
-	}, {
-		"id": 2,
-		"name": "Altahrer",
-		"photograph": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
-		"address": "171 E Broadway, New York, NY 10002"
-	}, {
-		"id": 3,
-		"name": "kentake",
-		"photograph": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
-		"address": "171 E Broadway, New York, NY 10002"
-	}]
+			"id": 1,
+			"name": "Paradise",
+			"img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
+			"location": "171 E Broadway, New York, NY 10002",
+			"rate": 4,
+			"category": {
+				"meat": ["shawerma", "sogo", "burger"],
+				"sandwiches": ["potatos", "crep"],
+				"fish": ["singary", "polty"],
+				"Pastries": ["pizza", "corwaso"]
+			}
+		},
+		{
+			"id": 2,
+			"name": "star",
+			"img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
+			"location": "171 E Broadway, New York, NY 10002",
+			"rate": 3,
+			"category": {
+				"meat": ["shawerma", "sogo", "burger"],
+				"sandwiches": ["potatos", "crep"],
+				"fish": ["singary", "polty"],
+				"Pastries": ["pizza", "corwaso"]
+			}
+		},
+		{
+			"id": 3,
+			"name": "kintake",
+			"img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
+			"location": "171 E Broadway, New York, NY 10002",
+			"rate": 5,
+			"category": {
+				"meat": ["shawerma", "sogo", "burger"],
+				"sandwiches": ["potatos", "crep"],
+				"fish": ["singary", "polty"],
+				"Pastries": ["pizza", "corwaso"]
+			}
+		}
+	]
 }
