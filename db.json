@@ -1,5 +1,5 @@
 {
-	"resturants": {
+	"resturants": [{
 		"paradise":{
 			"id": 1,
 			"name": "Paradise",
@@ -156,5 +156,5 @@
 				}
 			}
 		}
-	}
+	}]
 }
