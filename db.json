@@ -7,7 +7,7 @@
         "rate": 4,
         "category": {
           "meat": {
-            "shawerma": {
+           "shawerma": {
               "rate": 5,
               "Price": 30
             },
