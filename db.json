@@ -1,8 +1,6 @@
-{
-  "resturants": [
-    {
-      "paradise": {
-        "id": 1,
+[
+  {
+    "id": 1,
         "name": "Paradise",
         "img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
         "location": "171 E Broadway, New York, NY 10002",
@@ -49,11 +47,9 @@
             }
           }
         }
-      }
-    },
-    {
-      "star": {
-        "id": 2,
+  },
+  {
+    "id": 2,
         "name": "star",
         "img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
         "location": "171 E Broadway, New York, NY 10002",
@@ -100,11 +96,9 @@
             }
           }
         }
-      }
-    },
-    {
-      "kintake": {
-        "id": 3,
+  },
+   {
+    "id": 3,
         "name": "kintake",
         "img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
         "location": "171 E Broadway, New York, NY 10002",
@@ -151,7 +145,5 @@
             }
           }
         }
-      }
-    }
-  ]
-}
+  }
+]
