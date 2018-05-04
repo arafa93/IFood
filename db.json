@@ -5,6 +5,7 @@
         "name": "Paradise",
         "img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
         "location": "171 E Broadway, New York, NY 10002",
+        "phone": "01201173768",
         "rate": 4,
         "category": {
           "meat": {
@@ -54,6 +55,7 @@
         "name": "star",
         "img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
         "location": "171 E Broadway, New York, NY 10002",
+       "phone": "01201173768",
         "rate": 3,
         "category": {
           "meat": {
@@ -103,6 +105,7 @@
         "name": "kintake",
         "img": "https://i1.sndcdn.com/artworks-000131674761-yo8esz-t500x500.jpg",
         "location": "171 E Broadway, New York, NY 10002",
+        "phone": "01201173768",
         "rate": 5,
         "category": {
           "meat": {
