@@ -256,7 +256,7 @@
         "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e0nx_sqp.jpg?v=20180306114357",
         "location": "Qawmia , Al-Gawish",
         "phone": "01201173768",
-        "rate": 5,
+        "rate": 4,
         "category": {
           "meat": {
             "shawerma": {
@@ -356,7 +356,7 @@
         "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e1nh_sqp.jpg?v=20180424102604",
         "location": "171 E Broadway, New York, NY 10002",
         "phone": "01201173768",
-        "rate": 5,
+        "rate": 4,
         "category": {
           "meat": {
             "shawerma": {
@@ -406,7 +406,7 @@
         "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e8ny_sqp.jpg?v=20180228071547",
         "location": "Zagazig",
         "phone": "01201173768",
-        "rate": 5,
+        "rate": 3,
         "category": {
           "meat": {
             "shawerma": {
