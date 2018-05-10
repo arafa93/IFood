@@ -40,49 +40,7 @@
       "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e0ut_sqp.png?v=20161109104808",
       "location": "Tolba Awaida St, Shaibet an Nakareyah, Markaz El-Zakazik, Ash Sharqia Governorate ",
       "phone": "01201173768",
-      "rate": 3,
-      "category": {
-        "meat": {
-          "shawerma": {
-            "rate": 5,
-            "Price": 30
-          },
-          "sogo": {
-            "rate": 5,
-            "Price": 30
-          },
-          "burger": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "sandwiches": {
-          "potatos": {
-            "rate": 5,
-            "Price": 30
-          },
-          "crep": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "fish": {
-          "polty": {
-            "rate": 5,
-            "Price": 30
-          },
-          "singary": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "Pastries": {
-          "pizza": {
-            "rate": 5,
-            "Price": 30
-          }
-        }
-      }
+      "rate": 3
     },
     {
       "id": 3,
@@ -90,49 +48,7 @@
       "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e2hq_sqp.jpg?v=20150913104715",
       "location": "El-Hariry, Qesm Awal AZ Zagazig, Ash Sharqia Governorate",
       "phone": "01201173768",
-      "rate": 5,
-      "category": {
-        "meat": {
-          "shawerma": {
-            "rate": 5,
-            "Price": 30
-          },
-          "sogo": {
-            "rate": 5,
-            "Price": 30
-          },
-          "burger": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "sandwiches": {
-          "potatos": {
-            "rate": 5,
-            "Price": 30
-          },
-          "crep": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "fish": {
-          "polty": {
-            "rate": 5,
-            "Price": 30
-          },
-          "singary": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "Pastries": {
-          "pizza": {
-            "rate": 5,
-            "Price": 30
-          }
-        }
-      }
+      "rate": 5
     },
     {
       "id": 4,
@@ -140,49 +56,7 @@
       "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e8xv_sqp.jpg?v=20150406145607",
       "location": "Al Hasan Ben Al Haitham, Shaibet an Nakareyah, Markaz El-Zakazik, Ash Sharqia Governorate",
       "phone": "01201173768",
-      "rate": 5,
-      "category": {
-        "meat": {
-          "shawerma": {
-            "rate": 5,
-            "Price": 30
-          },
-          "sogo": {
-            "rate": 5,
-            "Price": 30
-          },
-          "burger": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "sandwiches": {
-          "potatos": {
-            "rate": 5,
-            "Price": 30
-          },
-          "crep": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "fish": {
-          "polty": {
-            "rate": 5,
-            "Price": 30
-          },
-          "singary": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "Pastries": {
-          "pizza": {
-            "rate": 5,
-            "Price": 30
-          }
-        }
-      }
+      "rate": 5
     },
     {
       "id": 5,
@@ -190,49 +64,7 @@
       "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e8yp_sqp.png",
       "location": "Tolba Awaida St, Shaibet an Nakareyah, Markaz AZ Zagazig, Ash Sharqia Governorate",
       "phone": "01201173768",
-      "rate": 5,
-      "category": {
-        "meat": {
-          "shawerma": {
-            "rate": 5,
-            "Price": 30
-          },
-          "sogo": {
-            "rate": 5,
-            "Price": 30
-          },
-          "burger": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "sandwiches": {
-          "potatos": {
-            "rate": 5,
-            "Price": 30
-          },
-          "crep": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "fish": {
-          "polty": {
-            "rate": 5,
-            "Price": 30
-          },
-          "singary": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "Pastries": {
-          "pizza": {
-            "rate": 5,
-            "Price": 30
-          }
-        }
-      }
+      "rate": 5
     },
     {
       "id": 6,
@@ -240,49 +72,7 @@
       "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e0nx_sqp.jpg?v=20180306114357",
       "location": "Qawmia , Al-Gawish",
       "phone": "01201173768",
-      "rate": 4,
-      "category": {
-        "meat": {
-          "shawerma": {
-            "rate": 5,
-            "Price": 30
-          },
-          "sogo": {
-            "rate": 5,
-            "Price": 30
-          },
-          "burger": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "sandwiches": {
-          "potatos": {
-            "rate": 5,
-            "Price": 30
-          },
-          "crep": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "fish": {
-          "polty": {
-            "rate": 5,
-            "Price": 30
-          },
-          "singary": {
-            "rate": 5,
-            "Price": 30
-          }
-        },
-        "Pastries": {
-          "pizza": {
-            "rate": 5,
-            "Price": 30
-          }
-        }
-      }
+      "rate": 4
     }
   ]
 }
