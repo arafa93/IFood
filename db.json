@@ -28,9 +28,9 @@
       "foods": [
         {
           "id": 1,
-          "name": "Chicken Meal ( Menu 25 )",
-          "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 21.93",
+          "name": "Chicken Rice with Sauce Meal",
+          "content": "2 Pieces fried chicken, rice and chili sauce or barbeque sauce  ",
+          "salary": "EGY54.39",
           "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
           "rate": 5
         }
@@ -46,9 +46,9 @@
       "foods": [
         {
           "id": 1,
-          "name": "Chicken Meal ( Menu 25 )",
-          "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 21.93",
+          "name": "Large Plain Rice Offer ",
+          "content": "Served with Pepsi can",
+          "salary": "EGY15.35 ",
           "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
           "rate": 5
         }
@@ -64,9 +64,9 @@
       "foods": [
         {
           "id": 1,
-          "name": "Chicken Meal ( Menu 25 )",
-          "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 21.93",
+          "name": "Super Meal",
+          "content": "2 Pieces fried chicken, served with 200 gm large plain rice, small french fries, bun bread and soft drink",
+          "salary": "EGY 41.50",
           "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
           "rate": 5
         }
@@ -82,9 +82,9 @@
       "foods": [
         {
           "id": 1,
-          "name": "Chicken Meal ( Menu 25 )",
-          "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 21.93",
+          "name": "Snack Box",
+          "content": "2 Pieces fried chicken, served with small French fries and bun bread",
+          "salary": " EGY 31.14",
           "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
           "rate": 5
         }
@@ -100,9 +100,9 @@
       "foods": [
         {
           "id": 1,
-          "name": "Chicken Meal ( Menu 25 )",
-          "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 21.93",
+          "name": "Dinner Box",
+          "content": "3 Pieces fried chicken, served with small French fries, coleslaw salad and bun bread",
+          "salary": "EGY 54.39",
           "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
           "rate": 5
         }
@@ -118,9 +118,9 @@
       "foods": [
         {
           "id": 1,
-          "name": "Chicken Meal ( Menu 25 )",
-          "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 21.93",
+          "name": "Mix 2 Meal – Small",
+          "content": "Pick 2 sandwiches from Cheeseburger, Chicken MacDo® and Beef Burger + Small Fries + Regular Drink",
+          "salary": " EGY 36.84",
           "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
           "rate": 5
         }
