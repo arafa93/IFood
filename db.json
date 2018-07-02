@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "KFC - Zagazig",
-      "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e5bi_sqp.jpg?v=20150909144409",
+      "img": "https://www.e3lam.org/wp-content/uploads/2017/06/kfc1-672x372.jpg",
       "location": "1 Talaat Harb, Mosque, Qesm Than AZ Zagazig, Ash Sharqia Governorate",
       "phone": "01201173768",
       "rate": 4,
@@ -16,7 +16,7 @@
           "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
           "rate": 5
         },
-          {
+        {
           "id": 1,
           "name": "Chicken Meal ( Menu 25 )",
           "content": "Chicken piece, small plain rice, small French fries and bun ",
@@ -29,7 +29,7 @@
     {
       "id": 2,
       "name": "McDonald’s - Zagazig",
-      "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e0ut_sqp.png?v=20161109104808",
+      "img": "https://static.boydgaming.net/samstownlv10/media/specials/images/Mcdonalds_Deal_2.jpg",
       "location": "Tolba Awaida St, Shaibet an Nakareyah, Markaz El-Zakazik, Ash Sharqia Governorate ",
       "phone": "01201173768",
       "rate": 3,
@@ -47,7 +47,7 @@
     {
       "id": 3,
       "name": "Cook Door - Zagazig",
-      "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e2hq_sqp.jpg?v=20150913104715",
+      "img": "http://www.farben.me/wpimages/913c8bb6bdff.jpg",
       "location": "El-Hariry, Qesm Awal AZ Zagazig, Ash Sharqia Governorate",
       "phone": "01201173768",
       "rate": 5,
@@ -65,7 +65,7 @@
     {
       "id": 4,
       "name": "Pizza Hut - Zagazig",
-      "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e8xv_sqp.jpg?v=20150406145607",
+      "img": "https://jasper.banffdiningguide.com/wp-content/uploads/sites/3/2016/06/KFCPizzaHutJasper-4-web.jpg",
       "location": "Al Hasan Ben Al Haitham, Shaibet an Nakareyah, Markaz El-Zakazik, Ash Sharqia Governorate",
       "phone": "01201173768",
       "rate": 5,
@@ -83,7 +83,7 @@
     {
       "id": 5,
       "name": "Mo'men - Zagazig",
-      "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e8yp_sqp.png",
+      "img": "https://elmediatoday.com/wp-content/uploads/Momen-outdoor.png",
       "location": "Tolba Awaida St, Shaibet an Nakareyah, Markaz AZ Zagazig, Ash Sharqia Governorate",
       "phone": "01201173768",
       "rate": 5,
@@ -93,42 +93,6 @@
           "name": "Snack Box",
           "content": "2 Pieces fried chicken, served with small French fries and bun bread",
           "salary": " EGY 31.14",
-          "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
-          "rate": 5
-        }
-      ]
-    },
-    {
-      "id": 6,
-      "name": "BBQ - Hay El Zohour",
-      "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e0nx_sqp.jpg?v=20180306114357",
-      "location": "Qawmia , Al-Gawish",
-      "phone": "01201173768",
-      "rate": 4,
-      "foods": [
-        {
-          "id": 1,
-          "name": "Dinner Box",
-          "content": "3 Pieces fried chicken, served with small French fries, coleslaw salad and bun bread",
-          "salary": "EGY 54.39",
-          "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
-          "rate": 5
-        }
-      ]
-    },
-    {
-      "id": 7,
-      "name": "Al Batal Crepe - Sharea' El Farouq",
-      "img": "https://europe-public.foodpanda.com/dynamic/production/eg/images/vendors/e2nf_sqp.jpg?v=20180301132911",
-      "location": "171 E Broadway, New York, NY 10002",
-      "phone": "01201173768",
-      "rate": 5,
-      "foods": [
-        {
-          "id": 1,
-          "name": "Mix 2 Meal – Small",
-          "content": "Pick 2 sandwiches from Cheeseburger, Chicken MacDo® and Beef Burger + Small Fries + Regular Drink",
-          "salary": " EGY 36.84",
           "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
           "rate": 5
         }
