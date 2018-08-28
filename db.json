@@ -12,7 +12,7 @@
           "id": 1,
           "name": "Chicken Meal ( Menu 25 )",
           "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 21.63",
+          "salary": 21.63,
           "image": "https://4.bp.blogspot.com/-dJeKqjD8J0w/UYPMuiifGrI/AAAAAAAAWXc/ti_j4JYVGfU/s800/raising-canes-chicken-fingers-box-03.JPG",
           "rate": 5
         },
@@ -20,7 +20,7 @@
           "id": 2,
           "name": "Ropian ( Menu 26 )",
           "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 60.93",
+          "salary": 60.93,
           "image": "http://pluspng.com/img-png/food-png-food-salad-image-2962-428.png",
           "rate": 4
         },
@@ -28,7 +28,7 @@
           "id": 3,
           "name": "Kapap ( Menu 26 )",
           "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 80.33",
+          "salary": 80.33,
           "image": "https://www.burgerking.co.th/img/food/BG_thumb_double_whopper_bacon_cheese.png",
           "rate": 3
         },
@@ -36,7 +36,7 @@
           "id": 4,
           "name": "Ropian ( Menu 26 )",
           "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 101.93",
+          "salary": 101.93,
           "image": "https://cdn.pixabay.com/photo/2018/04/17/23/04/food-3329079_960_720.png",
           "rate": 4
         }
@@ -54,7 +54,7 @@
           "id": 5,
           "name": "Chicken Rice with Sauce Meal",
           "content": "2 Pieces fried chicken, rice and chili sauce or barbeque sauce  ",
-          "salary": "EGY54.39",
+          "salary": 54.39,
           "image": "http://images.virgula.com.br/2016/02/mcdonalds-koreas-shrimp-burger.png",
           "rate": 3
         },
@@ -62,7 +62,7 @@
           "id": 6,
           "name": "Kapap ( Menu 26 )",
           "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 80.33",
+          "salary": 80.33,
           "image": "https://www.burgerking.co.th/img/food/BG_thumb_double_whopper_bacon_cheese.png",
           "rate": 3
         },
@@ -70,7 +70,7 @@
           "id": 7,
           "name": "Ropian ( Menu 26 )",
           "content": "Chicken piece, small plain rice, small French fries and bun ",
-          "salary": "EGY 101.93",
+          "salary": 101.93,
           "image": "https://cdn.pixabay.com/photo/2018/04/17/23/04/food-3329079_960_720.png",
           "rate": 4
         }
@@ -88,7 +88,7 @@
           "id": 8,
           "name": "Large Plain Rice Offer ",
           "content": "Served with Pepsi can",
-          "salary": "EGY15.35 ",
+          "salary": 15.35 ,
           "image": "http://www.pngmart.com/files/3/Grilled-Food-PNG-Photos.png",
           "rate": 4
         }
@@ -106,7 +106,7 @@
           "id": 9,
           "name": "Super Meal",
           "content": "2 Pieces fried chicken, served with 200 gm large plain rice, small french fries, bun bread and soft drink",
-          "salary": "EGY 41.50",
+          "salary": 41.50,
           "image": "http://www.market2plate.com/wp-content/uploads/2015/03/Market2Plate_Home_Cateringv2.png",
           "rate": 4
         }
@@ -124,7 +124,7 @@
           "id": 10,
           "name": "Snack Box",
           "content": "2 Pieces fried chicken, served with small French fries and bun bread",
-          "salary": " EGY 31.14",
+          "salary": " 31.14,
           "image": "http://storeheddingeboldklub.dk/wp-content/uploads/2017/08/BB_WHOPPER-v1.png",
           "rate": 3
         }
